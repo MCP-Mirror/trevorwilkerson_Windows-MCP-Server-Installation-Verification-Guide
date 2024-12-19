@@ -5,7 +5,7 @@ README.md file for now, script to come later...
 
 =-=-=-=-=-
 
-This guide assumes you have performed a basic MCP install on Windows 10
+This guide assumes you have performed a basic MCP install on Windows 10.  Guide created by Claude Desktop app running MCP servers.
 
 # Comprehensive Windows MCP Server Installation Verification Guide
 
