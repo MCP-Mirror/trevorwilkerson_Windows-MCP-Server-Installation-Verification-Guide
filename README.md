@@ -9,7 +9,7 @@ This guide assumes you have performed a basic MCP install on Windows 10
 
 # Comprehensive Windows MCP Server Installation Verification Guide
 
-I'll use sequential thinking to analyze and create a comprehensive guide.
+I'll use sequential thinking to analyze and create a comprehensive guide to the MCP sequential-thinking server.
 
 Based on this analysis, here's a comprehensive guide for verifying MCP server installation on Windows:
 
